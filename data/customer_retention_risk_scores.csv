@@ -1,0 +1,241 @@
+customer_id,contract_type,tenure_months,monthly_charges,support_tickets,churn,churn_probability,risk_tier,recommended_action
+CUST-1495,Month-To-Month,11,99.6,3,Yes,0.821,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1387,One Year,11,111.04,3,Yes,0.74,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-2111,Month-To-Month,27,98.22,3,Yes,0.735,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1691,Month-To-Month,11,88.83,4,Yes,0.735,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-2188,Month-To-Month,17,77.02,3,Yes,0.729,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-2059,Month-To-Month,7,53.32,5,No,0.724,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1142,Month-To-Month,3,81.88,4,Yes,0.721,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1766,Month-To-Month,11,92.15,2,Yes,0.714,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1005,Month-To-Month,31,95.47,4,Yes,0.709,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1839,Month-To-Month,36,93.86,4,Yes,0.707,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1267,Month-To-Month,24,62.94,4,Yes,0.696,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1001,Month-To-Month,5,86.97,3,Yes,0.692,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1662,Month-To-Month,28,82.81,5,Yes,0.686,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1391,Month-To-Month,30,46.45,4,Yes,0.683,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1017,Month-To-Month,10,70.65,5,Yes,0.679,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1553,Month-To-Month,14,96.61,3,No,0.679,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1721,Month-To-Month,37,104.35,2,Yes,0.678,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1251,Month-To-Month,37,60.54,5,Yes,0.67,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1902,Month-To-Month,32,112.3,3,Yes,0.664,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1542,Month-To-Month,6,88.19,3,Yes,0.657,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1073,Month-To-Month,29,105.99,5,Yes,0.655,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1098,Two Year,3,106.28,3,No,0.652,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-2050,One Year,25,89.82,3,Yes,0.65,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1234,Month-To-Month,21,60.33,4,No,0.649,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1832,Month-To-Month,8,77.16,2,Yes,0.648,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1386,One Year,44,91.82,4,Yes,0.645,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1673,Month-To-Month,34,111.67,2,No,0.643,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1157,Month-To-Month,24,96.33,2,No,0.641,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1428,Month-To-Month,25,98.25,1,No,0.639,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1105,Month-To-Month,27,109.11,1,Yes,0.631,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1040,One Year,11,77.29,3,Yes,0.63,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-2066,Two Year,4,88.6,3,Yes,0.619,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1512,Month-To-Month,47,90.03,4,Yes,0.619,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1842,Two Year,1,94.69,3,No,0.618,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1681,Month-To-Month,65,105.19,4,No,0.618,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1064,Month-To-Month,8,91.42,1,Yes,0.611,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1181,Month-To-Month,9,68.94,2,No,0.604,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1840,Month-To-Month,25,87.79,1,No,0.602,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1841,One Year,37,113.12,4,No,0.602,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1752,Two Year,13,90.46,4,No,0.601,High Risk,Priority Retention Call + Annual Plan Discount
+CUST-1756,Month-To-Month,24,125.0,0,No,0.598,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1554,Month-To-Month,35,117.21,3,No,0.593,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1380,Month-To-Month,5,76.84,1,Yes,0.589,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1988,Month-To-Month,9,73.76,3,Yes,0.587,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2079,One Year,28,99.5,3,No,0.581,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1978,Month-To-Month,28,79.2,5,Yes,0.58,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1057,Month-To-Month,39,87.18,2,Yes,0.566,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1092,Month-To-Month,8,62.92,3,Yes,0.565,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2112,One Year,15,73.57,2,Yes,0.564,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1047,Month-To-Month,25,95.2,1,No,0.56,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1137,Month-To-Month,20,67.93,2,Yes,0.552,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2054,Month-To-Month,7,39.43,3,Yes,0.552,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1019,Month-To-Month,8,51.96,3,Yes,0.547,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1148,One Year,30,95.05,2,No,0.547,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1716,Two Year,6,85.61,2,No,0.543,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1907,Month-To-Month,52,47.72,5,No,0.524,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2140,Month-To-Month,11,65.82,2,No,0.524,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1938,Month-To-Month,11,103.92,1,Yes,0.52,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1783,Month-To-Month,48,112.62,5,Yes,0.517,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1223,Two Year,35,101.45,5,Yes,0.508,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1533,One Year,22,42.56,3,No,0.505,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1336,Month-To-Month,15,52.61,4,Yes,0.497,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1033,Two Year,2,102.88,2,Yes,0.496,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1454,One Year,14,94.41,1,No,0.492,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1940,One Year,19,91.75,1,Yes,0.487,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1860,Month-To-Month,72,118.92,5,Yes,0.486,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1399,Month-To-Month,41,108.78,0,No,0.479,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2051,Month-To-Month,33,102.37,2,Yes,0.474,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1565,One Year,20,45.38,3,No,0.465,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1242,Month-To-Month,20,71.885,1,No,0.463,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1780,Two Year,17,89.28,3,No,0.46,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1138,Month-To-Month,17,53.55,2,No,0.456,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1355,One Year,19,81.53,2,Yes,0.456,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1492,Month-To-Month,30,71.885,2,No,0.453,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1013,Month-To-Month,5,40.29,4,Yes,0.446,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1816,One Year,67,101.1,4,No,0.444,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1602,One Year,25,95.45,1,Yes,0.443,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1071,Month-To-Month,13,40.14,3,Yes,0.437,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1085,One Year,63,113.44,4,No,0.435,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1197,Month-To-Month,37,76.13,2,No,0.431,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1831,Month-To-Month,19,45.68,2,Yes,0.428,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1773,One Year,5,69.93,1,Yes,0.427,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2041,Two Year,27,84.77,3,No,0.404,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1308,Month-To-Month,28,78.73,1,No,0.402,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1674,Month-To-Month,56,108.44,2,Yes,0.401,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1312,Two Year,25,96.21,3,No,0.4,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2032,One Year,29,69.73,3,Yes,0.395,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1133,Two Year,4,67.17,3,No,0.392,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2014,Month-To-Month,53,54.31,4,No,0.391,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2086,Month-To-Month,25,58.04,2,No,0.391,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1727,Two Year,29,79.99,1,No,0.391,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1301,Month-To-Month,26,55.09,2,Yes,0.39,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1838,Month-To-Month,65,100.99,0,No,0.386,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1571,One Year,9,60.62,2,Yes,0.386,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1970,Month-To-Month,47,113.98,2,No,0.384,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1300,Two Year,20,105.46,2,Yes,0.381,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1359,Month-To-Month,11,62.55,1,Yes,0.375,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1667,Month-To-Month,48,87.26,4,Yes,0.374,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1274,Two Year,39,101.51,5,No,0.373,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2139,Month-To-Month,62,64.64,4,Yes,0.37,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1837,Month-To-Month,67,108.71,2,No,0.37,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1295,Month-To-Month,49,71.05,4,No,0.367,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1145,Two Year,4,76.27,1,Yes,0.363,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1682,One Year,65,113.56,3,No,0.363,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1824,Two Year,24,106.15,1,No,0.362,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1724,Month-To-Month,6,103.5,0,No,0.361,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1567,Month-To-Month,49,79.96,3,No,0.356,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1855,One Year,9,52.99,1,No,0.351,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1392,Two Year,21,100.98,2,Yes,0.342,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1278,Month-To-Month,70,108.29,1,No,0.34,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1683,Month-To-Month,47,75.83,1,No,0.333,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-2010,Month-To-Month,57,65.06,4,Yes,0.331,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1743,One Year,51,64.95,3,No,0.325,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1730,Month-To-Month,17,34.36,3,Yes,0.323,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1490,Month-To-Month,62,82.44,4,No,0.322,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1352,Month-To-Month,48,103.25,3,No,0.318,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1054,Month-To-Month,46,78.03,1,No,0.316,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1184,Month-To-Month,61,73.63,4,Yes,0.313,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1230,Month-To-Month,44,21.8,2,No,0.308,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1947,Month-To-Month,51,84.11,2,No,0.306,Medium Risk,Proactive Check-In & Tech Support Offer
+CUST-1460,Month-To-Month,42,81.95,0,No,0.298,Low Risk,Standard Loyalty Newsletter
+CUST-1695,Month-To-Month,69,74.22,0,No,0.296,Low Risk,Standard Loyalty Newsletter
+CUST-1131,One Year,38,45.95,3,No,0.294,Low Risk,Standard Loyalty Newsletter
+CUST-1590,Two Year,1,59.95,1,No,0.294,Low Risk,Standard Loyalty Newsletter
+CUST-1701,Month-To-Month,31,79.71,0,No,0.293,Low Risk,Standard Loyalty Newsletter
+CUST-1077,One Year,23,47.4,2,No,0.292,Low Risk,Standard Loyalty Newsletter
+CUST-1429,Month-To-Month,47,65.4,2,Yes,0.292,Low Risk,Standard Loyalty Newsletter
+CUST-1732,Month-To-Month,68,71.16,4,Yes,0.291,Low Risk,Standard Loyalty Newsletter
+CUST-1665,Month-To-Month,63,110.36,2,Yes,0.287,Low Risk,Standard Loyalty Newsletter
+CUST-1996,One Year,7,99.92,0,Yes,0.28,Low Risk,Standard Loyalty Newsletter
+CUST-1369,Two Year,28,76.1,1,No,0.278,Low Risk,Standard Loyalty Newsletter
+CUST-1276,Two Year,17,79.58,1,No,0.273,Low Risk,Standard Loyalty Newsletter
+CUST-2038,One Year,16,82.3,0,No,0.273,Low Risk,Standard Loyalty Newsletter
+CUST-2115,One Year,46,58.6,2,Yes,0.272,Low Risk,Standard Loyalty Newsletter
+CUST-1950,Month-To-Month,70,55.11,3,No,0.272,Low Risk,Standard Loyalty Newsletter
+CUST-1056,One Year,32,85.24,0,No,0.269,Low Risk,Standard Loyalty Newsletter
+CUST-1962,Two Year,23,48.87,3,No,0.269,Low Risk,Standard Loyalty Newsletter
+CUST-1027,Month-To-Month,41,82.01,1,No,0.268,Low Risk,Standard Loyalty Newsletter
+CUST-1066,Two Year,7,51.25,2,No,0.264,Low Risk,Standard Loyalty Newsletter
+CUST-1992,One Year,45,110.51,1,No,0.263,Low Risk,Standard Loyalty Newsletter
+CUST-1685,Two Year,19,81.94,1,No,0.26,Low Risk,Standard Loyalty Newsletter
+CUST-2085,Two Year,26,86.1,0,No,0.259,Low Risk,Standard Loyalty Newsletter
+CUST-1152,One Year,60,118.02,1,No,0.257,Low Risk,Standard Loyalty Newsletter
+CUST-2196,Two Year,26,75.28,4,No,0.255,Low Risk,Standard Loyalty Newsletter
+CUST-1195,Month-To-Month,69,82.73,0,No,0.252,Low Risk,Standard Loyalty Newsletter
+CUST-1009,One Year,7,91.17,0,No,0.245,Low Risk,Standard Loyalty Newsletter
+CUST-1311,Month-To-Month,66,113.91,2,No,0.238,Low Risk,Standard Loyalty Newsletter
+CUST-1573,One Year,49,35.8,0,No,0.23,Low Risk,Standard Loyalty Newsletter
+CUST-1878,Month-To-Month,56,77.75,0,No,0.229,Low Risk,Standard Loyalty Newsletter
+CUST-1463,Two Year,45,68.57,5,No,0.228,Low Risk,Standard Loyalty Newsletter
+CUST-1028,Month-To-Month,62,115.27,2,Yes,0.227,Low Risk,Standard Loyalty Newsletter
+CUST-1155,Month-To-Month,63,44.91,3,Yes,0.223,Low Risk,Standard Loyalty Newsletter
+CUST-2021,Two Year,24,105.2,0,No,0.223,Low Risk,Standard Loyalty Newsletter
+CUST-2171,Month-To-Month,48,27.52,4,No,0.223,Low Risk,Standard Loyalty Newsletter
+CUST-1807,Month-To-Month,67,71.93,2,No,0.222,Low Risk,Standard Loyalty Newsletter
+CUST-1398,Month-To-Month,34,31.79,2,No,0.22,Low Risk,Standard Loyalty Newsletter
+CUST-1288,Month-To-Month,40,75.12,1,No,0.219,Low Risk,Standard Loyalty Newsletter
+CUST-2011,One Year,49,108.17,1,No,0.219,Low Risk,Standard Loyalty Newsletter
+CUST-1912,Month-To-Month,28,23.28,0,No,0.219,Low Risk,Standard Loyalty Newsletter
+CUST-2061,Month-To-Month,32,70.69,1,No,0.217,Low Risk,Standard Loyalty Newsletter
+CUST-1236,Month-To-Month,50,53.29,2,No,0.215,Low Risk,Standard Loyalty Newsletter
+CUST-2167,Two Year,42,72.48,2,No,0.214,Low Risk,Standard Loyalty Newsletter
+CUST-1248,Month-To-Month,26,37.66,1,No,0.211,Low Risk,Standard Loyalty Newsletter
+CUST-1453,Month-To-Month,40,28.98,0,Yes,0.209,Low Risk,Standard Loyalty Newsletter
+CUST-2113,Month-To-Month,61,67.14,3,No,0.205,Low Risk,Standard Loyalty Newsletter
+CUST-1650,Month-To-Month,28,63.26,0,Yes,0.204,Low Risk,Standard Loyalty Newsletter
+CUST-1353,One Year,4,60.08,0,No,0.203,Low Risk,Standard Loyalty Newsletter
+CUST-1545,Month-To-Month,61,46.05,3,No,0.201,Low Risk,Standard Loyalty Newsletter
+CUST-1580,Month-To-Month,55,75.56,2,No,0.196,Low Risk,Standard Loyalty Newsletter
+CUST-1569,One Year,62,60.25,2,No,0.195,Low Risk,Standard Loyalty Newsletter
+CUST-1202,Month-To-Month,70,99.9,2,No,0.195,Low Risk,Standard Loyalty Newsletter
+CUST-1942,Month-To-Month,27,24.08,2,Yes,0.195,Low Risk,Standard Loyalty Newsletter
+CUST-1419,Two Year,39,51.19,3,No,0.194,Low Risk,Standard Loyalty Newsletter
+CUST-1112,Two Year,54,81.8,3,No,0.193,Low Risk,Standard Loyalty Newsletter
+CUST-1338,Month-To-Month,42,71.885,1,No,0.191,Low Risk,Standard Loyalty Newsletter
+CUST-1707,Month-To-Month,67,76.55,2,No,0.19,Low Risk,Standard Loyalty Newsletter
+CUST-1615,Two Year,40,19.29,2,No,0.187,Low Risk,Standard Loyalty Newsletter
+CUST-1924,Month-To-Month,49,20.79,1,Yes,0.184,Low Risk,Standard Loyalty Newsletter
+CUST-2004,Two Year,28,28.39,1,No,0.183,Low Risk,Standard Loyalty Newsletter
+CUST-1366,Month-To-Month,13,54.35,1,No,0.182,Low Risk,Standard Loyalty Newsletter
+CUST-1093,Two Year,58,74.26,3,No,0.182,Low Risk,Standard Loyalty Newsletter
+CUST-1758,Month-To-Month,37,56.25,1,No,0.174,Low Risk,Standard Loyalty Newsletter
+CUST-1025,Two Year,36,78.96,0,No,0.174,Low Risk,Standard Loyalty Newsletter
+CUST-1147,One Year,34,27.86,0,No,0.174,Low Risk,Standard Loyalty Newsletter
+CUST-1004,Two Year,58,71.63,3,No,0.173,Low Risk,Standard Loyalty Newsletter
+CUST-1588,Month-To-Month,46,49.61,2,Yes,0.171,Low Risk,Standard Loyalty Newsletter
+CUST-1481,Two Year,59,58.5,4,No,0.171,Low Risk,Standard Loyalty Newsletter
+CUST-1402,Month-To-Month,58,72.74,1,No,0.168,Low Risk,Standard Loyalty Newsletter
+CUST-1035,One Year,53,111.2,1,No,0.165,Low Risk,Standard Loyalty Newsletter
+CUST-1596,One Year,12,52.32,0,No,0.164,Low Risk,Standard Loyalty Newsletter
+CUST-1405,One Year,48,43.11,0,No,0.162,Low Risk,Standard Loyalty Newsletter
+CUST-1639,Month-To-Month,12,30.79,1,Yes,0.162,Low Risk,Standard Loyalty Newsletter
+CUST-2192,Two Year,68,40.18,5,No,0.162,Low Risk,Standard Loyalty Newsletter
+CUST-1143,Two Year,58,57.57,3,No,0.161,Low Risk,Standard Loyalty Newsletter
+CUST-1351,Two Year,32,62.53,4,No,0.157,Low Risk,Standard Loyalty Newsletter
+CUST-1158,One Year,30,50.56,1,No,0.156,Low Risk,Standard Loyalty Newsletter
+CUST-2025,One Year,35,79.53,0,No,0.152,Low Risk,Standard Loyalty Newsletter
+CUST-2039,Two Year,47,94.8,2,No,0.152,Low Risk,Standard Loyalty Newsletter
+CUST-1843,Month-To-Month,15,22.86,2,No,0.151,Low Risk,Standard Loyalty Newsletter
+CUST-1059,One Year,47,100.4,2,No,0.151,Low Risk,Standard Loyalty Newsletter
+CUST-1888,Month-To-Month,65,82.2,1,No,0.148,Low Risk,Standard Loyalty Newsletter
+CUST-1844,One Year,37,77.54,0,No,0.148,Low Risk,Standard Loyalty Newsletter
+CUST-1828,One Year,57,82.96,2,No,0.147,Low Risk,Standard Loyalty Newsletter
+CUST-1672,Month-To-Month,39,50.81,1,No,0.145,Low Risk,Standard Loyalty Newsletter
+CUST-1859,Month-To-Month,30,18.0,4,No,0.142,Low Risk,Standard Loyalty Newsletter
+CUST-1636,Two Year,40,98.41,1,No,0.138,Low Risk,Standard Loyalty Newsletter
+CUST-1774,Two Year,56,62.8,4,No,0.137,Low Risk,Standard Loyalty Newsletter
+CUST-1951,Month-To-Month,56,24.35,2,No,0.135,Low Risk,Standard Loyalty Newsletter
+CUST-1856,One Year,34,65.02,0,No,0.135,Low Risk,Standard Loyalty Newsletter
+CUST-1952,Month-To-Month,51,110.8,0,No,0.133,Low Risk,Standard Loyalty Newsletter
+CUST-1294,One Year,63,66.46,1,No,0.133,Low Risk,Standard Loyalty Newsletter
+CUST-1208,One Year,57,35.12,1,No,0.132,Low Risk,Standard Loyalty Newsletter
+CUST-2131,Month-To-Month,70,114.2,2,No,0.131,Low Risk,Standard Loyalty Newsletter
+CUST-1706,Month-To-Month,59,50.32,2,No,0.13,Low Risk,Standard Loyalty Newsletter
+CUST-1026,Month-To-Month,68,53.68,1,Yes,0.128,Low Risk,Standard Loyalty Newsletter
+CUST-1905,One Year,72,82.22,0,No,0.122,Low Risk,Standard Loyalty Newsletter
+CUST-1287,One Year,39,18.0,2,No,0.105,Low Risk,Standard Loyalty Newsletter
+CUST-1503,One Year,44,33.01,0,No,0.104,Low Risk,Standard Loyalty Newsletter
+CUST-1975,Two Year,42,41.31,1,No,0.104,Low Risk,Standard Loyalty Newsletter
+CUST-2123,Month-To-Month,3,22.84,1,No,0.104,Low Risk,Standard Loyalty Newsletter
+CUST-2012,One Year,54,39.72,2,No,0.099,Low Risk,Standard Loyalty Newsletter
+CUST-1731,Two Year,22,30.26,1,No,0.098,Low Risk,Standard Loyalty Newsletter
+CUST-1826,Two Year,56,30.68,5,No,0.097,Low Risk,Standard Loyalty Newsletter
+CUST-1500,One Year,48,73.75,1,No,0.089,Low Risk,Standard Loyalty Newsletter
+CUST-1705,Two Year,30,18.0,2,No,0.088,Low Risk,Standard Loyalty Newsletter
+CUST-1233,Month-To-Month,57,39.72,2,No,0.085,Low Risk,Standard Loyalty Newsletter
+CUST-1750,Two Year,63,76.98,2,No,0.079,Low Risk,Standard Loyalty Newsletter
+CUST-2040,Month-To-Month,58,28.43,4,No,0.076,Low Risk,Standard Loyalty Newsletter
+CUST-1572,Two Year,37,47.15,1,No,0.074,Low Risk,Standard Loyalty Newsletter
+CUST-1121,Month-To-Month,58,24.1,2,No,0.069,Low Risk,Standard Loyalty Newsletter
+CUST-1036,Two Year,32,50.29,1,No,0.063,Low Risk,Standard Loyalty Newsletter
+CUST-2152,One Year,34,24.97,2,No,0.054,Low Risk,Standard Loyalty Newsletter
+CUST-1170,Two Year,57,57.48,1,Yes,0.053,Low Risk,Standard Loyalty Newsletter
+CUST-1607,One Year,47,32.94,1,No,0.051,Low Risk,Standard Loyalty Newsletter
+CUST-1710,One Year,26,35.49,0,Yes,0.048,Low Risk,Standard Loyalty Newsletter
+CUST-1101,Two Year,64,18.0,0,No,0.048,Low Risk,Standard Loyalty Newsletter
+CUST-2145,Two Year,6,18.0,1,No,0.045,Low Risk,Standard Loyalty Newsletter
+CUST-1350,Two Year,8,18.0,1,No,0.038,Low Risk,Standard Loyalty Newsletter
+CUST-1626,Month-To-Month,51,31.87,1,No,0.033,Low Risk,Standard Loyalty Newsletter
+CUST-2184,Two Year,71,18.0,1,No,0.009,Low Risk,Standard Loyalty Newsletter
